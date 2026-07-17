@@ -11,6 +11,9 @@
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RomComEdie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomComEdie&show_icons=true&theme=onedark)
+
 ---
 
 ### 🔧 Tech Stack
