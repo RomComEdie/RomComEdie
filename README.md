@@ -1,7 +1,7 @@
 # Welcome 👋🪫
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="100%"/>
+  <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" height"50%" width="100%"/>
 </p>
 
 **Fullstack Developer 🚀 | Cyber Security 🔐 | AI Engineer 🤖**
