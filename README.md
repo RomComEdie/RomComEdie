@@ -1,4 +1,4 @@
-# 👋 Halo, Selamat Datang
+# Welcome 👋🪫
 
 <p align="center">
   <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="100%"/>
