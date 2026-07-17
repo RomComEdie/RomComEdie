@@ -1,13 +1,17 @@
-# 👋 Ngoding Dulu, Jagonya Belakangan!
+# 👋 Halo, Selamat Datang
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjRxZnJpd3NsbDJhd2p1bGcxaDBtdnByb2M1cXRtYmVsdHB3cGthYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" width="640" height="360"/>
+  <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="100%"/>
 </p>
 
-**SMK Student | Aspiring Fullstack Developer 🚀 | Tech Enthusiast 💡**
+**Fullstack Developer 🚀 | Cyber Security 🔐 | AI Engineer 🤖**
 
+---
+
+### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RomComEdie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 ### 🔧 Tech Stack
 
@@ -34,5 +38,3 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-lightblue?style=for-the-badge&logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
-
-
