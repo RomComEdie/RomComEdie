@@ -1,7 +1,7 @@
-# Welcome 👋🪫
+# 👋 Halo, Selamat Datang
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" height"50%" width="100%"/>
+  <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" width="100%"/>
 </p>
 
 **Fullstack Developer 🚀 | Cyber Security 🔐 | AI Engineer 🤖**
@@ -11,8 +11,19 @@
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=RomComEdie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Github Stats
+---
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RomComEdie&show_icons=true&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomComEdie&layout=compact&theme=onedark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomComEdie&theme=onedark)
+
+---
+
+### 👀 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=RomComEdie&color=blue)
 
 ---
 
