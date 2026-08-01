@@ -4,7 +4,8 @@
   <img src="https://media1.giphy.com/media/k81NasbqkKA5HSyJxN/giphy.gif" height="300px" width="100%"/>
 </p>
 
-**Fullstack Developer 🚀 | Cyber Security 🔐 | AI Engineer 🤖**
+**Fullstack Developer |
+Cyber Security  | AI Engineer **
 
 ---
 
