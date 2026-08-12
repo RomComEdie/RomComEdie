@@ -23,8 +23,9 @@ learning cybersecurity, and exploring artificial intelligence.
 ---
 
 ### 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RomComEdie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RomComEdie&theme=onedark&row=1&column=6" />
+</p>
 ---
 
 ### 📊 GitHub Stats
@@ -36,11 +37,6 @@ learning cybersecurity, and exploring artificial intelligence.
 
 ---
 
-### 🐍 Contribution Snake
-
-![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
 
 ### 👀 Visitor Counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=RomComEdie&color=blue)
@@ -81,15 +77,3 @@ learning cybersecurity, and exploring artificial intelligence.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,php,laravel,mysql,mongodb,python,tensorflow,pytorch,git,github,vscode,linux" />
 </p>
 
-### 🔐 Cyber Security Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
