@@ -9,6 +9,19 @@ Cyber Security  | AI Engineer **
 
 ---
 
+### 👨‍💻 About Me
+
+I'm a developer who is passionate about building web applications,
+learning cybersecurity, and exploring artificial intelligence.
+
+- 🌐 Fullstack Web Developer
+- 🔐 Cyber Security Learner
+- 🤖 AI & Machine Learning Enthusiast
+- 🐧 Linux Enthusiast
+- 🚀 Always learning and building new projects
+
+---
+
 ### 🏆 GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RomComEdie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -20,6 +33,12 @@ Cyber Security  | AI Engineer **
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomComEdie&layout=compact&theme=onedark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RomComEdie&theme=onedark)
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -53,3 +72,24 @@ Cyber Security  | AI Engineer **
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-lightblue?style=for-the-badge&logo=scikit-learn)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nodejs,php,laravel,mysql,mongodb,python,tensorflow,pytorch,git,github,vscode,linux" />
+</p>
+
+### 🔐 Cyber Security Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
