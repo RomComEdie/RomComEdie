@@ -17,7 +17,7 @@ learning cybersecurity, and exploring artificial intelligence.
 - 🌐 Fullstack Web Developer
 - 🔐 Cyber Security Learner
 - 🤖 AI & Machine Learning Enthusiast
-- 🐧 Linux Enthusiast
+- 🐧 Linux User
 - 🚀 Always learning and building new projects
 
 ---
